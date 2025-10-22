@@ -1,0 +1,35 @@
+[
+  {
+    "id": "reflection-deep-5",
+    "title": "Reflection Deep Discus 5–5.5\"",
+    "price": 7000,
+    "slug": "reflection-deep-5",
+    "short": "Premium A-Grade — 5–5.5\"",
+    "description": "Imported from NA Discus, Malaysia.",
+    "images": [
+      "/uploads/hero-1.png"
+    ]
+  },
+  {
+    "id": "red-white-5",
+    "title": "Red White Discus 5–5.5\"",
+    "price": 6500,
+    "slug": "red-white-5",
+    "short": "Premium A-Grade — 5–5.5\"",
+    "description": "Imported from NA Discus, Malaysia.",
+    "images": [
+      "/uploads/hero-2.png"
+    ]
+  },
+  {
+    "id": "pigeon-checker-5",
+    "title": "Pigeon Checkerboard 5–5.5\"",
+    "price": 5500,
+    "slug": "pigeon-checker-5",
+    "short": "Premium A-Grade — 5–5.5\"",
+    "description": "Imported from NA Discus, Malaysia.",
+    "images": [
+      "/uploads/hero-1.png"
+    ]
+  }
+]
